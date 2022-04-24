@@ -62,7 +62,7 @@ You can deploy this bot anywhere.
 
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DevAXD/fiLTER/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/samurai-maker/WWM/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
